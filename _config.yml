@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#8898B0'
+    - '#000000'
+    - '#608098'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.9699743361381731
+  lightness: 0.8372960896640407
+  rhythmicContrast: 0.14390346633044726
+  saturation: 0.9802562009588323
+cta: {}
+layout_spectrum: 1
+name: artificial venture
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.784909
