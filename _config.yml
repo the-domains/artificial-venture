@@ -1,4 +1,19 @@
-analytics: {}
+name: artificial venture
+favicon: null
+layout_spectrum: 0.74863
+typography_spectrum: 0.784909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#8898B0'
@@ -8,11 +23,9 @@ color:
     - '#000000'
   brandStrength: 0.9699743361381731
   lightness: 0.8372960896640407
-  rhythmicContrast: 0.14390346633044726
   saturation: 0.9802562009588323
-cta: {}
-layout_spectrum: 1
-name: artificial venture
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.784909
+  rhythmicContrast: 0.14390346633044726
+purpose:
+  - name: null
+    item: null
+    url: null
